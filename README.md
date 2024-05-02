@@ -1,1 +1,4 @@
 # connect4_with_ai
+this project aims to create a digital version of the classic two-player strategy game, Connect Four. In this game, players take turns dropping colored discs from the top into a vertically suspended grid. The objective is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs.
+
+غالبًا يفضل الأشخاص اختيار الألعاب الافتراضية لأنه يمكن حسم الفائز بسرعة و دقة أكبرمن الألعاب الملموسة التي تكون معرضة للغش و النتائج غير الدقيفة و اللعبة التي اخترناها تحتاج لمجهود كي نحدد هل تم توصيل 4 دوائر متتاليين سواء بالعرض ام بالطول ام بشكل افقي أو لا فاستخدام الكمبيوتر في هذا النوع من الألعاب له مميزات اكثر. يفوز اللاعب الذي يستطيع اسقاط اربعة دوائر متتاليين بأي شكل مما ذكرت أولًا. يوجد لوح فيه 6 صفوف و 7 اعمدة و للاعب 7 اماكن متاحة لإسقاط دائرة مالم يكن العمود ممتلئا بالدوائر
